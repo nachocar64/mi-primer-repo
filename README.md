@@ -10,3 +10,5 @@ Este repositorio contiene una pequeña agenda personal de consola organizada med
 * **`contactos.txt`**: Archivo de texto que almacena la lista de contactos personales, registrando nombres, números de teléfono y correos electrónicos.
 
 * **`tareas.txt`**: Lista de tareas pendientes y pendientes académicos por realizar.
+
+* **`compras.txt`**: Lista de productos y víveres para el hogar (como arroz, fideos y leche).
