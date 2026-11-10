@@ -1,0 +1,2 @@
+1. Estudiar Git
+2. Hacer la Guía 1
