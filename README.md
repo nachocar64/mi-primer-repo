@@ -12,3 +12,5 @@ Este repositorio contiene una pequeña agenda personal de consola organizada med
 * **`tareas.txt`**: Lista de tareas pendientes y pendientes académicos por realizar.
 
 * **`compras.txt`**: Lista de productos y víveres para el hogar (como arroz, fideos y leche).
+
+* **`.gitignore`**: Archivo de configuración que indica a Git qué archivos y carpetas ignorar (como ser registros temporales, contraseñas, información sensible o configuraciones de editores) para evitar subirlos por error al servidor remoto.
